@@ -1,0 +1,9 @@
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\bin\Debug\GetDistanceAPI.exe.config
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\bin\Debug\GetDistanceAPI.exe
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\bin\Debug\GetDistanceAPI.pdb
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\obj\Debug\GetDistanceAPI.csprojResolveAssemblyReference.cache
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\obj\Debug\GetDistanceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\obj\Debug\GetDistanceAPI.exe
+C:\Users\Finrod\source\repos\GetDistanceAPI\GetDistanceAPI\obj\Debug\GetDistanceAPI.pdb

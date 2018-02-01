@@ -1,0 +1,9 @@
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\LocationInfo.exe.config
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\LocationInfo.exe
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\LocationInfo.pdb
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\LocationInfo.exe
+C:\Users\Finrod\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\LocationInfo.pdb
