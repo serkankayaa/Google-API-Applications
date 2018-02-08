@@ -1,0 +1,11 @@
+#mapDiv
+{ 
+    width: 1200px; height: 720px; 
+    float:left;
+    display: inline;
+}
+
+#forms
+{
+    float: left;;
+}
